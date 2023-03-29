@@ -6,7 +6,9 @@ The program is that convert QR-Code your text or link that you want.
 <p>👨‍💻 Bu kodlar, 🌐 web üzerinde kullanılabilecek bir QR kodu oluşturucu uygulaması için basit bir arayüz oluşturuyor.
 🔨 Uygulama, kullanıcıların bir metin veya URL girerek kolayca bir QR kodu oluşturmasına izin verir. Kodlar, 🌐 QR kodunun oluşturulması için harici bir API'ye bağlanır (https://api.qrserver.com).</p>
 
-![QR-Code](https://user-images.githubusercontent.com/98689012/228674124-055ac907-b52e-48ad-9c9c-c992cb273e94.jpg)
+<img width="1152" alt="Ekran Resmi 2023-03-30 00 44 23" src="https://user-images.githubusercontent.com/98689012/228674699-c6d37087-2bf3-4bd0-a0fa-d0f2ed76f1d9.png">
+
+
 
 
 <h2>👨‍💻Kullanımı</h2>
